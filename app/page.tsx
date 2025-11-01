@@ -16,7 +16,7 @@ export default function HomePage() {
           className="rounded-full mx-auto mb-4"
           priority
         />
-        <h1 className="text-4xl font-bold mb-2">Hello, I'm [Süleymanlı Cavid]</h1>
+        <h1 className="text-4xl font-bold mb-2">Hello, I'm Süleymanlı Cavid</h1>
         <h2 className="text-2xl text-gray-600 mb-4">Backend Developer / DevOps</h2>
         <p className="max-w-xl mx-auto mb-6">
           {/* This description was empty. I've added a placeholder.
